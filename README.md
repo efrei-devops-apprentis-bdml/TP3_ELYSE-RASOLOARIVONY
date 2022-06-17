@@ -60,13 +60,13 @@ A web browser has been opened at https://login.microsoftonline.com/organizations
 [
   {
     "cloudName": "AzureCloud",
-    "homeTenantId": "413600cf-bd4e-4c7c-8a61-69e73cddf731",
-    "id": "5e344786-8ad6-45d1-91f9-3bc8b31730d0",
+    "homeTenantId": "4136...3cddf731",
+    "id": "5e344786-.... c8b31730d0",
     "isDefault": false,
     "managedByTenants": [],
     "name": "Azure for Students",
     "state": "Disabled",
-    "tenantId": "413600cf-bd4e-4c7c-8a61-69e73cddf731",
+    "tenantId": "41360....df731",
     "user": {
       "name": "elyse.rasoloarivony@efrei.net",
       "type": "user"
@@ -74,13 +74,13 @@ A web browser has been opened at https://login.microsoftonline.com/organizations
   },
   {
     "cloudName": "AzureCloud",
-    "homeTenantId": "413600cf-bd4e-4c7c-8a61-69e73cddf731",
+    "homeTenantId": "413600c...df731",
     "id": "14f3b93b-01dc-4e9e-8688-5b2dd60107ce",
     "isDefault": false,
     "managedByTenants": [],
     "name": "Azure for Students",
     "state": "Disabled",
-    "tenantId": "413600cf-bd4e-4c7c-8a61-69e73cddf731",
+    "tenantId": "413....73cddf731",
     "user": {
       "name": "elyse.rasoloarivony@efrei.net",
       "type": "user"
@@ -88,8 +88,8 @@ A web browser has been opened at https://login.microsoftonline.com/organizations
   },
   {
     "cloudName": "AzureCloud",
-    "homeTenantId": "413600cf-bd4e-4c7c-8a61-69e73cddf731",
-    "id": "765266c6-9a23-4638-af32-dd1e32613047",
+    "homeTenantId": "41360.....f731",
+    "id": "76....13047",
     "isDefault": true,
     "managedByTenants": [],
     "name": "Efrei - Apprentis BDML",
